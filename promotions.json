@@ -1,0 +1,1955 @@
+[{
+        "Address": "Yirmeyahu St 17, Tel Aviv-Yafo, Israel",
+        "PromotionSchedule": {
+            "Active": true,
+            "Saturday": {
+                "StartTime": "2021-03-02T08:01:43.630Z",
+                "EndTime": "2021-03-02T18:00:53.184Z"
+            },
+            "Thursday": {
+                "StartTime": "2021-03-02T08:00:48.630Z",
+                "EndTime": "2021-03-02T18:00:53.184Z"
+            }
+        },
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-10T19:39:30.117Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-10T19:39:30.117Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-10T19:39:30.117Z"
+            }
+        },
+        "ExpTimeStamp": "Wed Mar 31 2021 20:00:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7759096",
+            "Lat": "32.0948425"
+        },
+        "Industry": "Restaurant",
+        "OriginalPrice": 62,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "בירה",
+            "מסעדה",
+            "עסקית",
+            "טבעוני",
+            "אוכל בריא"
+        ],
+        "AdvertiserId": "dbe31c14-ab8a-49fc-bbbd-2341c0c05d19",
+        "OpeningTime": "2021-03-10T08:00:47.762Z",
+        "Price": 44,
+        "Active": false,
+        "Name": "J17 vegan TLV",
+        "Country": "Israel",
+        "StartingQuantity": 15,
+        "Quantity": 15,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-03-10T21:00:54.345Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-10T19:39:30.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/35877180-81d8-11eb-afad-cd74cf63b7af.jpg",
+        "Tier": "F",
+        "PromotionId": "54f714d0-81d8-11eb-afad-cd74cf63b7af",
+        "Promotion": "עסקית טורטייה מרגז טבעונית",
+        "EpochExpTimeStamp": 1617220800,
+        "PromotionDescription": "נקניקיות מרגז עם בטטות צלויות, איולי צילי וירקות. מוגש בתוספת ציפס כפרי או תפוח אדמה מדורה ובירה",
+        "Age": 18,
+        "Live": false,
+        "BusinessPhone": "+97239442773"
+    },
+    {
+        "Address": "HaTa'arucha St 3, Beitan 22, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-02-22T10:52:48.597Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-02-22T10:52:48.597Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-02-22T10:52:48.597Z"
+            }
+        },
+        "ExpTimeStamp": "Wed Mar 31 2021 20:59:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7745049",
+            "Lat": "32.0989942"
+        },
+        "Industry": "Restaurants",
+        "OriginalPrice": 52,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "ארוחה",
+            "מסעדה",
+            "טבעוני",
+            "שווארמה "
+        ],
+        "AdvertiserId": "16c4e580-983e-4923-b306-0554a82e99eb",
+        "OpeningTime": "2021-02-22T08:00:43.007Z",
+        "Price": 40,
+        "Active": true,
+        "Name": "Pancake House TLV Port",
+        "Country": "Israel",
+        "StartingQuantity": 50,
+        "Quantity": 50,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-02-22T21:59:03.713Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-02-22T10:52:48.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/f69cafe0-74f7-11eb-be74-6bfcf7a707da.jpg",
+        "Tier": "F",
+        "PromotionId": "1a51ef50-74fc-11eb-a6b7-e9912dd4fa6c",
+        "Promotion": "ארוחת שווארמה טבעונית ",
+        "EpochExpTimeStamp": 1617224340,
+        "PromotionDescription": "שווארמה טבעונית מתובלת עשויה מסייטן, חומוס, טחינה, 2 פיתות וחמוצים. מוגש עם צ'יפס או סלט קטן ",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+97235083611"
+    },
+    {
+        "Address": "Basel St 36, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-18T09:17:04.134Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-18T09:17:04.134Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-18T09:17:04.134Z"
+            }
+        },
+        "ExpTimeStamp": "Wed Mar 31 2021 20:00:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7795777",
+            "Lat": "32.0897289"
+        },
+        "Industry": "Kiosk",
+        "OriginalPrice": 70,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "זר",
+            "בלונים",
+            "יומולדת",
+            "יום הולדת"
+        ],
+        "AdvertiserId": "f121e9ac-ba39-4d37-9c49-d1a0da34b14b",
+        "OpeningTime": "2021-02-17T05:15:00.000Z",
+        "Price": 60,
+        "Active": true,
+        "Name": "Hamama Basel",
+        "Country": "Israel",
+        "StartingQuantity": 10,
+        "Quantity": 10,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-02-17T21:59:00.000Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-18T09:17:04.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/75bf0430-71c9-11eb-be54-dd86dda7a1d5.jpg",
+        "Tier": "F",
+        "PromotionId": "b3a3c490-87ca-11eb-8452-15570cb90c71",
+        "Promotion": "זר בלוני הליום!",
+        "EpochExpTimeStamp": 1617220800,
+        "PromotionDescription": "זר בלונים בהרכבה אישית. 10 בלונים צבעוניים חלקים ובלון ניקל בגודל 18 סטנדרטי, לבחירה מהמגוון בחנות.",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": ""
+    },
+    {
+        "Address": "Shlomo Ibn Gabirol St 5, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-14T18:18:35.424Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-14T18:18:35.424Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-14T18:18:35.424Z"
+            }
+        },
+        "ExpTimeStamp": "Wed Mar 31 2021 17:18:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7817278",
+            "Lat": "32.0716036"
+        },
+        "Industry": "Restaurants",
+        "OriginalPrice": 79,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "כלב",
+            "חנות חיות",
+            "קונג לכלב",
+            "ציוד לכלב",
+            "צעצוע תעסוקה"
+        ],
+        "AdvertiserId": "63732ea2-5a89-4f80-baf0-8eddf156b560",
+        "OpeningTime": "2021-02-21T06:30:36.118Z",
+        "Price": 59,
+        "Active": true,
+        "Name": "Petshopsale ",
+        "Country": "Israel",
+        "StartingQuantity": 7,
+        "Quantity": 7,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-02-21T19:00:48.231Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-14T18:18:35.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/ff4f3240-75db-11eb-9f89-1f7c97696875.jpg",
+        "Tier": "F",
+        "PromotionId": "af6c0990-84f1-11eb-b383-fd0112b20eec",
+        "Promotion": "קונג קלאסיק - מידה לארג",
+        "EpochExpTimeStamp": 1617211080,
+        "PromotionDescription": "קונג קלאסיק הצעצוע המקורי ששיגע את העולם!\nצעצוע משחק האכלה/תעסוקה – ניתן להטמין חטיפים\n או מזון  בתוך הצעצוע, מומלץ להכניס מזון רטוב לצעצוע ולהכניס להקפאה לזמן ממשוך יותר של תעסוקה,\nמבטיח בין דקות לשעות של משחק וניסיון להוציא את המזון או חטיפים מתוך הצעצוע.\nהכדור עשוי 100% גומי איכותי המותאם לנשיכת כלבים ומתאים לניקוי גם במדיח כלים.\n מומלץ לכלבים\n בינוניים-גדולים 13-30 קג.\n*בהזמנה מעל 200 שקלים ניתן לתאם משלוח מול בית העסק",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+9721700700646"
+    },
+    {
+        "Address": "Shlomo Ibn Gabirol St 5, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-14T18:19:30.404Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-14T18:19:30.404Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-14T18:19:30.404Z"
+            }
+        },
+        "ExpTimeStamp": "Wed Mar 31 2021 17:19:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7817278",
+            "Lat": "32.0716036"
+        },
+        "Industry": "Restaurants",
+        "OriginalPrice": 178,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "חתול",
+            "סנאבל ",
+            "שק מזון",
+            "חנות חיות",
+            "מזון פרימיום "
+        ],
+        "AdvertiserId": "63732ea2-5a89-4f80-baf0-8eddf156b560",
+        "OpeningTime": "2021-02-21T06:30:36.118Z",
+        "Price": 149,
+        "Active": true,
+        "Name": "Petshopsale ",
+        "Country": "Israel",
+        "StartingQuantity": 7,
+        "Quantity": 7,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-02-21T19:00:48.231Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-14T18:19:30.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/ee6e2f00-75de-11eb-9f89-1f7c97696875.jpg",
+        "Tier": "F",
+        "PromotionId": "d0dab130-84f1-11eb-b383-fd0112b20eec",
+        "Promotion": "סנאבל מזון סופר פרימיום לחתול בטעם עוף או דגים",
+        "EpochExpTimeStamp": 1617211140,
+        "PromotionDescription": " מזון סופר פרימיום לחתול סנאבל – sanabelle, גרמניה\nמזון לחתולים בוגרים  זוג מארזים 2 קג עוף או דגים במבצע \n\nמזון סנאבל עשיר בבשר טרי, מופחת דגנים וללא גלוטן.\n\n\nבהזמנה מעל 200 שקלים ניתן לתאם משלוח מול בית העסק",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+9721700700646"
+    },
+    {
+        "Address": "Shlomo Ibn Gabirol St 5, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-14T18:18:55.203Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-14T18:18:55.203Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-14T18:18:55.203Z"
+            }
+        },
+        "ExpTimeStamp": "Wed Mar 31 2021 17:18:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7817278",
+            "Lat": "32.0716036"
+        },
+        "Industry": "Restaurants",
+        "OriginalPrice": 178,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "כלב",
+            "חתול",
+            "צעצוע",
+            "שק אוכל",
+            "חנות חיות"
+        ],
+        "AdvertiserId": "63732ea2-5a89-4f80-baf0-8eddf156b560",
+        "OpeningTime": "2021-02-21T06:30:36.118Z",
+        "Price": 149,
+        "Active": true,
+        "Name": "Petshopsale ",
+        "Country": "Israel",
+        "StartingQuantity": 7,
+        "Quantity": 7,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-02-21T19:00:48.231Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-14T18:18:55.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/a918c4c0-75e7-11eb-9f89-1f7c97696875.jpg",
+        "Tier": "F",
+        "PromotionId": "bc117ea0-84f1-11eb-b383-fd0112b20eec",
+        "Promotion": "זוג שקים 2קג מזון טייסט אוף דה ווילד לכלב ולחתול",
+        "EpochExpTimeStamp": 1617211080,
+        "PromotionDescription": "מותג המזון ללא דגנים המוביל בארהב במגוון טעמים והרכבים המותאמים בדיוק לכלב או לחתול שלך. לחבר הכי טוב שלך מגיע לטעום מהטוב ביותר. טעים בריא ומזין. מזון ללא דגנים. מתאים לכל גזע וגודל. בדיוק כמו בטבע.\n\nמבצע זוג שקים 2 קג לכלב או לחתול במבחר גדול של טעמים. \n\n*בהזמנה מעל 200 שקלים ניתן לתאם משלוח מול בית העסק",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+9721700700646"
+    },
+    {
+        "Address": "Shlomo Ibn Gabirol St 61, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-02-22T10:35:57.339Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-02-22T10:35:57.339Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-02-22T10:35:57.339Z"
+            }
+        },
+        "ExpTimeStamp": "Wed Mar 31 2021 20:59:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7811354",
+            "Lat": "32.0787143"
+        },
+        "Industry": "Restaurants",
+        "OriginalPrice": 112,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "מתוקים",
+            "טבעוני",
+            "פנקייקים",
+            "פינוקים ",
+            "ללא גלוטן"
+        ],
+        "AdvertiserId": "dab18e4a-05f5-4eda-9eb7-686d577102e7",
+        "OpeningTime": "2021-02-22T08:00:54.510Z",
+        "Price": 56,
+        "Active": true,
+        "Name": "Pancake House TLV Rabin Square",
+        "Country": "Israel",
+        "StartingQuantity": 50,
+        "Quantity": 48,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-02-22T21:59:33.935Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-02-22T10:35:57.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/0ac4dcf0-74f7-11eb-be74-6bfcf7a707da.jpg",
+        "Tier": "F",
+        "PromotionId": "bf940640-74f9-11eb-b0e8-85804231247e",
+        "Promotion": "1 + 1 על כל הפנקייקים",
+        "EpochExpTimeStamp": 1617224340,
+        "PromotionDescription": "1 + 1  (4 יחידות) על כל סוגי הפנקייקים שלנו - מלוחים לרעבים ומתוקים לנשמה.  \n*קיימים בתפריט פנקייקים טבעוניים וללא גלוטן \n",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+97236023640"
+    },
+    {
+        "Address": "Montefiore Street, 15, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-21T15:44:22.848Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-21T15:44:22.848Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-21T15:44:22.848Z"
+            }
+        },
+        "ExpTimeStamp": "Fri Apr 30 2021 14:30:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7706922",
+            "Lat": "32.064973"
+        },
+        "Industry": "Restaurant",
+        "OriginalPrice": 34,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "קפה",
+            "לאטה",
+            "מסעדה",
+            "מתוקים",
+            "עוגייה"
+        ],
+        "AdvertiserId": "4aaced7f-0bab-44a0-b137-8a7ac35fa95c",
+        "OpeningTime": "2021-03-21T08:00:00.000Z",
+        "Price": 28,
+        "Active": true,
+        "Name": "Citizen Garden",
+        "Country": "Israel",
+        "StartingQuantity": 10,
+        "Quantity": 10,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-03-21T15:30:20.146Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-21T15:44:22.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/31da0c50-8a5c-11eb-9d49-151ed3e0ef57.jpg",
+        "Tier": "F",
+        "PromotionId": "4dde9830-8a5c-11eb-9d49-151ed3e0ef57",
+        "Promotion": "לאטה ומשהו מתוק",
+        "EpochExpTimeStamp": 1619793000,
+        "PromotionDescription": "אחד ממשקאות הלאטה המפנקים שלנו ביחד עם עוגיות הבית שלנו לבחירה מהמגוון שבחנות",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+972545566431"
+    },
+    {
+        "Address": "Dizengoff St 175, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-02T10:53:56.408Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-02T10:53:56.408Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-02T10:53:56.408Z"
+            }
+        },
+        "ExpTimeStamp": "Fri Apr 30 2021 17:00:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.77437460000001",
+            "Lat": "32.0851548"
+        },
+        "Industry": "Restaurant",
+        "OriginalPrice": 39,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "פיתה",
+            "מסעדה",
+            "ארוחה",
+            "טחינה",
+            "שקשוקה"
+        ],
+        "AdvertiserId": "0f170be6-7c23-4998-a9d7-823a4d0ab862",
+        "OpeningTime": "2021-03-02T08:00:48.630Z",
+        "Price": 35,
+        "Active": true,
+        "Name": "Bahadunes Dizengoff",
+        "Country": "Israel",
+        "StartingQuantity": 25,
+        "Quantity": 25,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-03-02T18:00:53.184Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-02T10:53:56.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/66376b80-7b45-11eb-b87b-6f546feb5347.jpg",
+        "Tier": "F",
+        "PromotionId": "9570ce50-7b45-11eb-b87b-6f546feb5347",
+        "Promotion": "מנת שקשוקה",
+        "EpochExpTimeStamp": 1619802000,
+        "PromotionDescription": "מנת שקשוקה חמה וטעימה בתוספת טחינה ופיתה",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+97235274814"
+    },
+    {
+        "Address": "Ben Yehuda St 230, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-04T14:52:06.458Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-04T14:52:06.458Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-04T14:52:06.458Z"
+            }
+        },
+        "ExpTimeStamp": "Wed Mar 31 2021 18:00:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7748012",
+            "Lat": "32.0922905"
+        },
+        "Industry": "Gaming",
+        "OriginalPrice": 100,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "סלולר",
+            "אייפון",
+            "מגן מסך",
+            "מגן זכוכית",
+            "מגן נגד שבר"
+        ],
+        "AdvertiserId": "a816c86d-7dfd-4216-a485-15cb60a21af7",
+        "OpeningTime": "2021-03-03T07:00:49.093Z",
+        "Price": 80,
+        "Active": true,
+        "Name": "Digitouch Cellular",
+        "Country": "Israel",
+        "StartingQuantity": 10,
+        "Quantity": 10,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-03-03T19:00:54.561Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-04T14:52:06.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/ede2a7c0-7cf8-11eb-aab1-7b56aa299801.jpg",
+        "Tier": "F",
+        "PromotionId": "30035dc0-7cf9-11eb-aab1-7b56aa299801",
+        "Promotion": "מגן מסך זכוכית פרימיום לאייפון",
+        "EpochExpTimeStamp": 1617213600,
+        "PromotionDescription": "מגן מסך זכוכית על כל המסך מקצה לקצה להגנה מושלמת על המסך של האייפון\nזמין לכל הדגמים",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+97239300053"
+    },
+    {
+        "Address": "Allenby St 44, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-10T18:03:44.625Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-10T18:03:44.625Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-10T18:03:44.625Z"
+            }
+        },
+        "ExpTimeStamp": "Thu Apr 29 2021 21:00:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7690512",
+            "Lat": "32.0721141"
+        },
+        "Industry": "Restaurant",
+        "OriginalPrice": 40,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "בר",
+            "פיצה",
+            "מסעדה",
+            "פיצרייה",
+            "משולש פיצה"
+        ],
+        "AdvertiserId": "43016523-7d07-4eb6-9f15-73f667fdf9a7",
+        "OpeningTime": "2021-03-08T14:00:03.526Z",
+        "Price": 30,
+        "Active": true,
+        "Name": "Pizza Boutique Allenby 44",
+        "Country": "Israel",
+        "StartingQuantity": 20,
+        "Quantity": 20,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-03-08T00:00:07.898Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-10T18:03:44.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/80529470-81c8-11eb-9c0f-9d2e9463ba48.jpg",
+        "Tier": "F",
+        "PromotionId": "f271e720-81ca-11eb-9c0f-9d2e9463ba48",
+        "Promotion": "שני משולשי פיצה עם בקבוק שתיה",
+        "EpochExpTimeStamp": 1619730000,
+        "PromotionDescription": "שני משולשי פיצה חמים וטעימים בתוספת בקבוק שתיה",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+97235170003"
+    },
+    {
+        "Address": "HaTa'arucha St 3, Beitan 22, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-02-22T10:53:52.515Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-02-22T10:53:52.515Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-02-22T10:53:52.515Z"
+            }
+        },
+        "ExpTimeStamp": "Wed Mar 31 2021 20:59:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7745049",
+            "Lat": "32.0989942"
+        },
+        "Industry": "Restaurants",
+        "OriginalPrice": 112,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "מתוקים",
+            "טבעוני",
+            "פנקייקים",
+            "פינוקים ",
+            "ללא גלוטן"
+        ],
+        "AdvertiserId": "16c4e580-983e-4923-b306-0554a82e99eb",
+        "OpeningTime": "2021-02-22T08:00:43.007Z",
+        "Price": 56,
+        "Active": true,
+        "Name": "Pancake House TLV Port",
+        "Country": "Israel",
+        "StartingQuantity": 50,
+        "Quantity": 49,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-02-22T21:59:03.713Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-02-22T10:53:52.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/0ac4dcf0-74f7-11eb-be74-6bfcf7a707da.jpg",
+        "Tier": "F",
+        "PromotionId": "405672c0-74fc-11eb-a6b7-e9912dd4fa6c",
+        "Promotion": "1 + 1 על כל הפנקייקים",
+        "EpochExpTimeStamp": 1617224340,
+        "PromotionDescription": "1 + 1  (4 יחידות) על כל סוגי הפנקייקים שלנו - מלוחים לרעבים ומתוקים לנשמה.  \n*קיימים בתפריט פנקייקים טבעוניים וללא גלוטן \n",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+97235083611"
+    },
+    {
+        "Address": "Rabbi Akiva St 22, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-16T13:22:40.569Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-16T13:22:40.569Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-16T13:22:40.569Z"
+            }
+        },
+        "ExpTimeStamp": "Thu Apr 29 2021 21:00:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.769696",
+            "Lat": "32.0693614"
+        },
+        "Industry": "Desserts",
+        "OriginalPrice": 120,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "מלבי ",
+            "קינוחים",
+            "מתוקים",
+            "מארז",
+            "שוק הכרמל"
+        ],
+        "AdvertiserId": "0c3ce9be-e2d4-42cd-bf70-0712c31a8ad2",
+        "OpeningTime": "2021-03-10T10:00:00.831Z",
+        "Price": 100,
+        "Active": true,
+        "Name": "TK Malabi",
+        "Country": "Israel",
+        "StartingQuantity": 20,
+        "Quantity": 20,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-03-09T22:00:07.461Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-16T13:22:40.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/aa937060-865a-11eb-a234-7926c28080e5.jpg",
+        "Tier": "F",
+        "PromotionId": "aa937060-865a-11eb-a234-7926c28080e5",
+        "Promotion": "5 יחידות מלבי + 1 מתנה",
+        "EpochExpTimeStamp": 1619730000,
+        "PromotionDescription": "6 יחידות מלבי קריר ומפנק עם תוספות מיוחדות שעוד לא טעמתם...\nכונאפה, אוריאו, בזוקה, קיץ לימון, בייגלה שוקולד ועוד... ",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": ""
+    },
+    {
+        "Address": "Yirmiyahu Street 25, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-15T12:09:32.580Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-15T12:09:32.580Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-15T12:09:32.580Z"
+            }
+        },
+        "ExpTimeStamp": "Mon Mar 22 2021 15:00:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7765046",
+            "Lat": "32.0949376"
+        },
+        "Industry": "Restaurants",
+        "OriginalPrice": 25,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "לחם",
+            "מחמצת"
+        ],
+        "AdvertiserId": "c1966575-546a-448a-9885-e9b537cd10d5",
+        "OpeningTime": "2021-01-28T05:00:04.399Z",
+        "Price": 22,
+        "Active": true,
+        "Name": "Jeffrey Lebowski",
+        "Country": "Israel",
+        "StartingQuantity": 25,
+        "Quantity": 24,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-01-28T14:30:08.720Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-15T12:09:32.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/850e5510-6c4e-11eb-beef-4bd5e93d3a03.jpg",
+        "Tier": "F",
+        "PromotionId": "4c275f60-8587-11eb-92a6-6517518c4a30",
+        "Promotion": "לחם מחמצת בעבודת יד ",
+        "EpochExpTimeStamp": 1616425200,
+        "PromotionDescription": "מחמצת שיפון אגוזים/ קלמטה/ עגבניות מיובשות בעבודת יד- 80% שיפון 20% קמח מלא 10% קמח לבן. ",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": ""
+    },
+    {
+        "Address": "Dizengoff Street 179, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-01T13:09:26.082Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-01T13:09:26.082Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-01T13:09:26.082Z"
+            }
+        },
+        "ExpTimeStamp": "Wed Mar 31 2021 20:59:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.77442980000001",
+            "Lat": "32.0854029"
+        },
+        "Industry": "Candy",
+        "OriginalPrice": 64,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "ממתקים",
+            "מתוקים",
+            "סוכריות",
+            "עבודת יד",
+            "התאמה אישית"
+        ],
+        "AdvertiserId": "f08cf880-5fb2-11eb-8779-3bda62ddb8a4",
+        "OpeningTime": "2021-01-26T08:30:00.000Z",
+        "Price": 60,
+        "Active": true,
+        "Name": "Papabubble",
+        "Country": "Israel",
+        "StartingQuantity": 20,
+        "Quantity": 20,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-01-26T15:00:00.000Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-01T13:09:25.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/01c3c570-5fc7-11eb-8b46-b5be60a5aaf7.jpg",
+        "Tier": "F",
+        "PromotionId": "580a63c0-7a8f-11eb-8ca6-7555a00bc982",
+        "Promotion": "4 שקיות 60 גרם",
+        "EpochExpTimeStamp": 1617224340,
+        "PromotionDescription": "4 שקיות 60 גרם בטעמי פירות . סוכריות בעבודת יד ובהתאמה אישית ",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+972737856947"
+    },
+    {
+        "Address": "Sderot Sha'ul HaMelech 4, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-02-28T12:41:42.804Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-02-28T12:41:42.804Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-02-28T12:41:42.804Z"
+            }
+        },
+        "ExpTimeStamp": "Wed Mar 31 2021 19:30:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7825281",
+            "Lat": "32.0753545"
+        },
+        "Industry": "Restaurants",
+        "OriginalPrice": 39,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "הודי",
+            "חלבי",
+            "קינוח",
+            "מסעדה",
+            "מתוקים"
+        ],
+        "AdvertiserId": "bf0b0e74-d02c-436e-a28a-12dc4dbe8a7f",
+        "OpeningTime": "2021-02-28T10:00:45.140Z",
+        "Price": 30,
+        "Active": true,
+        "Name": "Indira",
+        "Country": "Israel",
+        "StartingQuantity": 20,
+        "Quantity": 20,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-02-28T20:30:53.150Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-02-28T12:41:42.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/cc7244c0-79be-11eb-a2a7-2dd9d5ec2fe7.jpg",
+        "Tier": "F",
+        "PromotionId": "4e229e40-79c2-11eb-936b-d1f377fd9cd7",
+        "Promotion": "גולאב ג'אמון",
+        "EpochExpTimeStamp": 1617219000,
+        "PromotionDescription": "הקינוח המקורי והאהוב, 3 עיגולי גולאב ג'אמון במחיר מיוחד 🤯",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+97236954437"
+    },
+    {
+        "Address": "Dizengoff Street, 138, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-07T14:48:37.066Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-07T14:48:37.066Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-07T14:48:37.066Z"
+            }
+        },
+        "ExpTimeStamp": "Wed Mar 31 2021 13:48:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7739266",
+            "Lat": "32.0823596"
+        },
+        "Industry": "Restaurants",
+        "OriginalPrice": 29,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "פיתה",
+            "שתיה",
+            "פלאפל",
+            "טחינה",
+            "חומוס",
+            "מנה פלאפל"
+        ],
+        "AdvertiserId": "6fac1ebc-409e-4d94-a16a-2873d7061a12",
+        "OpeningTime": "2021-01-26T08:00:51.499Z",
+        "Price": 20,
+        "Active": true,
+        "Name": "Hummus Abu Gosh",
+        "Country": "Israel",
+        "StartingQuantity": 25,
+        "Quantity": 25,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-01-26T18:00:02.136Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-07T14:48:37.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/f9034c90-5fe3-11eb-8097-df6e1a37617f.jpg",
+        "Tier": "F",
+        "PromotionId": "31f12600-7f54-11eb-aec1-554ab9ab4810",
+        "Promotion": "פיתה פלאפל",
+        "EpochExpTimeStamp": 1617198480,
+        "PromotionDescription": "פיתה עם פלאפל תוספות והמון אהבה. כולל שתיה",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": ""
+    },
+    {
+        "Address": "Dizengoff Street, 138, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-07T14:47:49.066Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-07T14:47:49.066Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-07T14:47:49.066Z"
+            }
+        },
+        "ExpTimeStamp": "Fri Apr 30 2021 13:47:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7739266",
+            "Lat": "32.0823596"
+        },
+        "Industry": "Restaurants",
+        "OriginalPrice": 120,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "ארוחה",
+            "צ'יפס",
+            "מג'דרה",
+            "לימונדה",
+            "שניצלונים",
+            "קנקן שתיה",
+            "ארוחה זוגית"
+        ],
+        "AdvertiserId": "6fac1ebc-409e-4d94-a16a-2873d7061a12",
+        "OpeningTime": "2021-01-26T08:00:51.499Z",
+        "Price": 90,
+        "Active": true,
+        "Name": "Hummus Abu Gosh",
+        "Country": "Israel",
+        "StartingQuantity": 25,
+        "Quantity": 25,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-01-26T18:00:02.136Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-07T14:47:48.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/74de25b0-5fe4-11eb-8097-df6e1a37617f.jpg",
+        "Tier": "F",
+        "PromotionId": "149ebd60-7f54-11eb-aec1-554ab9ab4810",
+        "Promotion": "ארוחת שניצלונים זוגית",
+        "EpochExpTimeStamp": 1619790420,
+        "PromotionDescription": "2 מנות שניצלונים, קנקן לימונדה ותוספת לבחירה: מג'דרה או צ'יפס.",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": ""
+    },
+    {
+        "Address": "Dizengoff St 175, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "lastUpdated": "2021-03-01T00:00:00+00:00",
+                "value": 1
+            },
+            "Total": {
+                "lastUpdated": "2021-03-08T12:00:55+00:00",
+                "value": 1
+            },
+            "ThisWeek": {
+                "lastUpdated": "2021-03-07T00:00:00+00:00",
+                "value": 1
+            }
+        },
+        "ExpTimeStamp": "Fri Apr 30 2021 17:00:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.77437460000001",
+            "Lat": "32.0851548"
+        },
+        "Industry": "Restaurant",
+        "OriginalPrice": 106,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "ארוחה",
+            "חומוס",
+            "מסעדה",
+            "טחינה",
+            "ארוחה זוגית"
+        ],
+        "AdvertiserId": "0f170be6-7c23-4998-a9d7-823a4d0ab862",
+        "OpeningTime": "2021-03-02T08:00:48.630Z",
+        "Price": 90,
+        "Active": true,
+        "Name": "Bahadunes Dizengoff",
+        "Country": "Israel",
+        "StartingQuantity": 25,
+        "Quantity": 24,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-03-02T18:00:53.184Z",
+        "Revenue": 90,
+        "TimeStamp": "2021-03-02T11:01:46.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/23a19010-7b46-11eb-b87b-6f546feb5347.jpg",
+        "Tier": "F",
+        "PromotionId": "add35ed0-7b46-11eb-b87b-6f546feb5347",
+        "Promotion": "ארוחת חומוס זוגית",
+        "EpochExpTimeStamp": 1619802000,
+        "PromotionDescription": "ארוחת חומוס זוגית מפנקת בתוספת 2 סלטים קטנים ו2 פחיות שתיה.\nניתן לבחור תוספות - חומוס גרגרים/פול/טחינה/משולש עם ביצה",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+97235274814"
+    },
+    {
+        "Address": "Shlomo Ibn Gabirol St 61, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-02-22T10:39:58.637Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-02-22T10:39:58.637Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-02-22T10:39:58.637Z"
+            }
+        },
+        "ExpTimeStamp": "Wed Mar 31 2021 20:59:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7811354",
+            "Lat": "32.0787143"
+        },
+        "Industry": "Restaurants",
+        "OriginalPrice": 52,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "מארז",
+            "מסיבה ",
+            "מתוקים",
+            "פנקייקים",
+            "יום הולדת "
+        ],
+        "AdvertiserId": "dab18e4a-05f5-4eda-9eb7-686d577102e7",
+        "OpeningTime": "2021-02-22T08:00:54.510Z",
+        "Price": 40,
+        "Active": true,
+        "Name": "Pancake House TLV Rabin Square",
+        "Country": "Israel",
+        "StartingQuantity": 50,
+        "Quantity": 50,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-02-22T21:59:33.935Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-02-22T10:39:58.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/f69cafe0-74f7-11eb-be74-6bfcf7a707da.jpg",
+        "Tier": "F",
+        "PromotionId": "4f555310-74fa-11eb-a6b7-e9912dd4fa6c",
+        "Promotion": "ארוחת שווארמה טבעונית ",
+        "EpochExpTimeStamp": 1617224340,
+        "PromotionDescription": "שווארמה טבעונית מתובלת עשויה מסייטן, חומוס, טחינה, 2 פיתות וחמוצים. מוגש עם צ'יפס או סלט קטן ",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+97236023640"
+    },
+    {
+        "Address": "Sderot Sha'ul HaMelech 4, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-02-28T12:47:24.247Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-02-28T12:47:24.247Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-02-28T12:47:24.247Z"
+            }
+        },
+        "ExpTimeStamp": "Wed Mar 31 2021 19:30:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7825281",
+            "Lat": "32.0753545"
+        },
+        "Industry": "Restaurants",
+        "OriginalPrice": 139,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "יין",
+            "אלכוהול",
+            "יין לבן",
+            "יין אדום",
+            "בקבוק יין"
+        ],
+        "AdvertiserId": "bf0b0e74-d02c-436e-a28a-12dc4dbe8a7f",
+        "OpeningTime": "2021-02-28T10:00:45.140Z",
+        "Price": 110,
+        "Active": true,
+        "Name": "Indira",
+        "Country": "Israel",
+        "StartingQuantity": 5,
+        "Quantity": 5,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-02-28T20:30:53.150Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-02-28T12:47:24.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/c46558b0-79c0-11eb-a2a7-2dd9d5ec2fe7.jpg",
+        "Tier": "F",
+        "PromotionId": "19c1d890-79c3-11eb-936b-d1f377fd9cd7",
+        "Promotion": "בקבוק יין אדום/לבן",
+        "EpochExpTimeStamp": 1617219000,
+        "PromotionDescription": "בקבוק יין אדום או לבן לבחירה:\nאדום:\nעמק סיינט מישל\nדאגלס גרין\nקיאנטי\nלבן:\nסטאר הום\nשאטו סיינט מישל",
+        "Age": 18,
+        "Live": false,
+        "BusinessPhone": "+97236954437"
+    },
+    {
+        "Address": "Dizengoff Street 179, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-02T11:06:31.751Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-02T11:06:31.751Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-02T11:06:31.751Z"
+            }
+        },
+        "ExpTimeStamp": "Fri Apr 30 2021 14:00:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.77442980000001",
+            "Lat": "32.0854029"
+        },
+        "Industry": "Candy",
+        "OriginalPrice": 96,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "ממתקים",
+            "מתוקים",
+            "סוכריות",
+            "עבודת יד",
+            "התאמה אישית"
+        ],
+        "AdvertiserId": "f08cf880-5fb2-11eb-8779-3bda62ddb8a4",
+        "OpeningTime": "2021-01-26T08:30:00.000Z",
+        "Price": 90,
+        "Active": true,
+        "Name": "Papabubble",
+        "Country": "Israel",
+        "StartingQuantity": 20,
+        "Quantity": 20,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-01-26T15:00:00.000Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-02T11:06:31.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/657c7d00-5fc7-11eb-8b46-b5be60a5aaf7.jpg",
+        "Tier": "F",
+        "PromotionId": "57ce3b80-7b47-11eb-96c3-5182692fca35",
+        "Promotion": "4 צנצנות 70 גרם",
+        "EpochExpTimeStamp": 1619791200,
+        "PromotionDescription": "4 צנצנות  70 גרם בטעמי פירות . סוכריות בעבודת יד ובהתאמה אישית ",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+972737856947"
+    },
+    {
+        "Address": "Shlomo Ibn Gabirol St 24, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-01T07:20:51.186Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-01T07:20:51.186Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-01T07:20:51.186Z"
+            }
+        },
+        "ExpTimeStamp": "Wed Mar 31 2021 06:20:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7819444",
+            "Lat": "32.0740857"
+        },
+        "Industry": "Restaurants",
+        "OriginalPrice": 65,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "מסעדה",
+            "ארוחה",
+            "לחמניה",
+            "איטלקי",
+            "ארוחה זוגית"
+        ],
+        "AdvertiserId": "79e0bd20-b0a6-4e95-9340-adb7aa99f4bb",
+        "OpeningTime": "2021-02-28T08:00:00.000Z",
+        "Price": 59,
+        "Active": true,
+        "Name": "Street Chef",
+        "Country": "Israel",
+        "StartingQuantity": 25,
+        "Quantity": 25,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-02-28T21:00:07.524Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-01T07:20:51.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/a46f3c80-7a5e-11eb-a13b-97cbf4dbdc1f.jpg",
+        "Tier": "F",
+        "PromotionId": "a46f3c80-7a5e-11eb-a13b-97cbf4dbdc1f",
+        "Promotion": "סליידרס זוגי",
+        "EpochExpTimeStamp": 1617171600,
+        "PromotionDescription": "לחמניות עננים במילוי קרם עגבניות איטלקיות מושחמות בשום קונפי ונאפות בתנור, עם מוצרלה וגאודה הולנדית",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+972548266260"
+    },
+    {
+        "Address": "Dizengoff St 175, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-02T10:53:21.328Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-02T10:53:21.328Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-02T10:53:21.328Z"
+            }
+        },
+        "ExpTimeStamp": "Fri Apr 30 2021 17:00:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.77437460000001",
+            "Lat": "32.0851548"
+        },
+        "Industry": "Restaurant",
+        "OriginalPrice": 53,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "ארוחה",
+            "חומוס",
+            "טחינה",
+            "מסעדה",
+            "עסקית"
+        ],
+        "AdvertiserId": "0f170be6-7c23-4998-a9d7-823a4d0ab862",
+        "OpeningTime": "2021-03-02T08:00:48.630Z",
+        "Price": 45,
+        "Active": true,
+        "Name": "Bahadunes Dizengoff",
+        "Country": "Israel",
+        "StartingQuantity": 20,
+        "Quantity": 20,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-03-02T18:00:53.184Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-02T10:53:21.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/ccb700b0-7b44-11eb-b87b-6f546feb5347.jpg",
+        "Tier": "F",
+        "PromotionId": "806bcb40-7b45-11eb-b87b-6f546feb5347",
+        "Promotion": "ארוחת חומוס",
+        "EpochExpTimeStamp": 1619802000,
+        "PromotionDescription": "ארוחת חומוס מפנקת בתוספת פחית שתיה. ניתן לבחור תוספות - חומוס גרגרים/טחינה/פול/משולש עם ביצה.",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+97235274814"
+    },
+    {
+        "Address": "Dizengoff Street 179, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-02T11:07:10.071Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-02T11:07:10.071Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-02T11:07:10.071Z"
+            }
+        },
+        "ExpTimeStamp": "Fri Apr 30 2021 14:00:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.77442980000001",
+            "Lat": "32.0854029"
+        },
+        "Industry": "Candy",
+        "OriginalPrice": 56,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "ממתקים",
+            "מתוקים",
+            "סוכריות",
+            "עבודת יד",
+            "התאמה אישית"
+        ],
+        "AdvertiserId": "f08cf880-5fb2-11eb-8779-3bda62ddb8a4",
+        "OpeningTime": "2021-01-26T08:30:00.000Z",
+        "Price": 50,
+        "Active": true,
+        "Name": "Papabubble",
+        "Country": "Israel",
+        "StartingQuantity": 20,
+        "Quantity": 20,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-01-26T15:00:00.000Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-02T11:07:10.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/a44cf690-5fc7-11eb-8b46-b5be60a5aaf7.jpg",
+        "Tier": "F",
+        "PromotionId": "6eb45aa0-7b47-11eb-96c3-5182692fca35",
+        "Promotion": "4 צנצנות 35 גרם",
+        "EpochExpTimeStamp": 1619791200,
+        "PromotionDescription": "4 צנצנות 35 גרם בטעמי פירות . סוכריות בעבודת יד ובהתאמה אישית ",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+972737856947"
+    },
+    {
+        "Address": "Ben Yehuda St 230, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-04T15:04:22.546Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-04T15:04:22.546Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-04T15:04:22.546Z"
+            }
+        },
+        "ExpTimeStamp": "Wed Mar 31 2021 18:00:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7748012",
+            "Lat": "32.0922905"
+        },
+        "Industry": "Gaming",
+        "OriginalPrice": 150,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "זרוע לרכב",
+            "מעמד לרכב ",
+            "מגנט",
+            "סלולר ",
+            "אייפון"
+        ],
+        "AdvertiserId": "a816c86d-7dfd-4216-a485-15cb60a21af7",
+        "OpeningTime": "2021-03-03T07:00:49.093Z",
+        "Price": 130,
+        "Active": true,
+        "Name": "Digitouch Cellular",
+        "Country": "Israel",
+        "StartingQuantity": 10,
+        "Quantity": 10,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-03-03T19:00:54.561Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-04T15:04:22.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/e33f0b40-7cfa-11eb-b1f5-379192d9ef6e.jpg",
+        "Tier": "F",
+        "PromotionId": "e33f0b40-7cfa-11eb-b1f5-379192d9ef6e",
+        "Promotion": "זרוע 6 מגנטים ארוכה שמשה/דשבורד",
+        "EpochExpTimeStamp": 1617213600,
+        "PromotionDescription": "שנה אחריות, הכי טובה ואיכותית, עמידה לתנאי מזג האוויר בארץ",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+97239300053"
+    },
+    {
+        "Address": "Allenby St 44, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-10T17:49:06.721Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-10T17:49:06.721Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-10T17:49:06.721Z"
+            }
+        },
+        "ExpTimeStamp": "Thu Apr 29 2021 21:00:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7690512",
+            "Lat": "32.0721141"
+        },
+        "Industry": "Restaurant",
+        "OriginalPrice": 70,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "פיצה",
+            "מסעדה",
+            "פיצרייה",
+            "מגש פיצה",
+            "פיצה משפחתית"
+        ],
+        "AdvertiserId": "43016523-7d07-4eb6-9f15-73f667fdf9a7",
+        "OpeningTime": "2021-03-08T14:00:03.526Z",
+        "Price": 60,
+        "Active": true,
+        "Name": "Pizza Boutique Allenby 44",
+        "Country": "Israel",
+        "StartingQuantity": 25,
+        "Quantity": 25,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-03-08T00:00:07.898Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-10T17:49:06.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/c6861390-81c8-11eb-9c0f-9d2e9463ba48.jpg",
+        "Tier": "F",
+        "PromotionId": "e81ba420-81c8-11eb-9c0f-9d2e9463ba48",
+        "Promotion": "מגש פיצה משפחתית + 2 תוספות",
+        "EpochExpTimeStamp": 1619730000,
+        "PromotionDescription": "מגש פיצה משפחתית טעים ומפנק עם 2 תוספות לבחירה",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+97235170003"
+    },
+    {
+        "Address": "Basel St 36, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-18T09:16:38.836Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-18T09:16:38.836Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-18T09:16:38.836Z"
+            }
+        },
+        "ExpTimeStamp": "Wed Mar 31 2021 20:00:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7795777",
+            "Lat": "32.0897289"
+        },
+        "Industry": "Kiosk",
+        "OriginalPrice": 24,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "גלידה",
+            "מגנום",
+            "ארטיק",
+            "שלגון",
+            "גלידות"
+        ],
+        "AdvertiserId": "f121e9ac-ba39-4d37-9c49-d1a0da34b14b",
+        "OpeningTime": "2021-02-17T05:15:00.000Z",
+        "Price": 20,
+        "Active": true,
+        "Name": "Hamama Basel",
+        "Country": "Israel",
+        "StartingQuantity": 10,
+        "Quantity": 10,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-02-17T21:59:00.000Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-18T09:16:38.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/ef08a090-71c8-11eb-be54-dd86dda7a1d5.jpg",
+        "Tier": "F",
+        "PromotionId": "a3a73540-87ca-11eb-8452-15570cb90c71",
+        "Promotion": "זוג שלגוני מגנום!",
+        "EpochExpTimeStamp": 1617220800,
+        "PromotionDescription": "זוג שלגוני מגנום מתוקים וקרירים, לבחירתך מהמבחר בחנות.",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": ""
+    },
+    {
+        "Address": "Shlomo Ibn Gabirol St 24, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-01T07:47:59.170Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-01T07:47:59.170Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-01T07:47:59.170Z"
+            }
+        },
+        "ExpTimeStamp": "Wed Mar 31 2021 07:00:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7819444",
+            "Lat": "32.0740857"
+        },
+        "Industry": "Restaurants",
+        "OriginalPrice": 140,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "ארוחה",
+            "מסעדה",
+            "איטלקי",
+            "סנדוויץ",
+            "ארוחה זוגית"
+        ],
+        "AdvertiserId": "79e0bd20-b0a6-4e95-9340-adb7aa99f4bb",
+        "OpeningTime": "2021-02-28T08:00:00.000Z",
+        "Price": 104,
+        "Active": true,
+        "Name": "Street Chef",
+        "Country": "Israel",
+        "StartingQuantity": 20,
+        "Quantity": 20,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-02-28T21:00:07.524Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-01T07:47:59.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/6fa0e090-7a62-11eb-a13b-97cbf4dbdc1f.jpg",
+        "Tier": "F",
+        "PromotionId": "6fa0e090-7a62-11eb-a13b-97cbf4dbdc1f",
+        "Promotion": "ארוחת גריל צ'יז זוגית",
+        "EpochExpTimeStamp": 1617174000,
+        "PromotionDescription": "2 גריל צ'יז חמים מפנקים לבחירה מהתפריט  ו2 בירות מהחבית או שתיה קלה לדייט המושלם! ",
+        "Age": 12,
+        "Live": false,
+        "BusinessPhone": "+972548266260"
+    },
+    {
+        "Address": "HaTa'arucha St 3, Beitan 22, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-02-22T10:51:49.594Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-02-22T10:51:49.594Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-02-22T10:51:49.594Z"
+            }
+        },
+        "ExpTimeStamp": "Wed Mar 31 2021 20:59:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7745049",
+            "Lat": "32.0989942"
+        },
+        "Industry": "Restaurants",
+        "OriginalPrice": 420,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "מארז",
+            "מסיבה ",
+            "מתוקים",
+            "פנקייקים",
+            "יום הולדת "
+        ],
+        "AdvertiserId": "16c4e580-983e-4923-b306-0554a82e99eb",
+        "OpeningTime": "2021-02-22T08:00:43.007Z",
+        "Price": 350,
+        "Active": true,
+        "Name": "Pancake House TLV Port",
+        "Country": "Israel",
+        "StartingQuantity": 50,
+        "Quantity": 50,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-02-22T21:59:03.713Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-02-22T10:51:49.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/9990b820-74f5-11eb-b694-37fe034d5c1c.jpg",
+        "Tier": "F",
+        "PromotionId": "f6997ec0-74fb-11eb-a6b7-e9912dd4fa6c",
+        "Promotion": "סיבה למסיבה! 24 יח' פנקייק + 15 תוספות ",
+        "EpochExpTimeStamp": 1617224340,
+        "PromotionDescription": "מארז החגיגות המיוחד שלנו! 24 יחידות פנקייקים מושלמים עם 15 תוספות מפנקות בצד, לבחירתכם. \n*ניתן לתאם משלוח מול בית העסק בתוספת תשלום\n** ניתן להחליף לפנקייקים טבעוניים או ללא גלוטן ללא תוספת תשלום\n",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+97235083611"
+    },
+    {
+        "Address": "Shlomo Ibn Gabirol St 61, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-02-22T10:35:25.297Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-02-22T10:35:25.297Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-02-22T10:35:25.297Z"
+            }
+        },
+        "ExpTimeStamp": "Wed Mar 31 2021 20:59:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7811354",
+            "Lat": "32.0787143"
+        },
+        "Industry": "Restaurants",
+        "OriginalPrice": 420,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "מארז",
+            "מסיבה ",
+            "מתוקים",
+            "פנקייקים",
+            "יום הולדת "
+        ],
+        "AdvertiserId": "dab18e4a-05f5-4eda-9eb7-686d577102e7",
+        "OpeningTime": "2021-02-22T08:00:54.510Z",
+        "Price": 350,
+        "Active": true,
+        "Name": "Pancake House TLV Rabin Square",
+        "Country": "Israel",
+        "StartingQuantity": 50,
+        "Quantity": 50,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-02-22T21:59:33.935Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-02-22T10:35:25.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/9990b820-74f5-11eb-b694-37fe034d5c1c.jpg",
+        "Tier": "F",
+        "PromotionId": "abed0c90-74f9-11eb-b0e8-85804231247e",
+        "Promotion": "סיבה למסיבה! 24 יח' פנקייק + 15 תוספות ",
+        "EpochExpTimeStamp": 1617224340,
+        "PromotionDescription": "מארז החגיגות המיוחד שלנו! 24 יחידות פנקייקים מושלמים עם 15 תוספות מפנקות בצד, לבחירתכם. \n*ניתן לתאם משלוח מול בית העסק בתוספת תשלום\n** ניתן להחליף לפנקייקים טבעוניים או ללא גלוטן ללא תוספת תשלום\n",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+97236023640"
+    },
+    {
+        "Address": "Allenby St 44, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-10T17:56:27.286Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-10T17:56:27.286Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-10T17:56:27.286Z"
+            }
+        },
+        "ExpTimeStamp": "Thu Apr 29 2021 21:00:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7690512",
+            "Lat": "32.0721141"
+        },
+        "Industry": "Restaurant",
+        "OriginalPrice": 110,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "בר",
+            "פיצה",
+            "מסעדה",
+            "פיצרייה",
+            "מגש פיצה"
+        ],
+        "AdvertiserId": "43016523-7d07-4eb6-9f15-73f667fdf9a7",
+        "OpeningTime": "2021-03-08T14:00:03.526Z",
+        "Price": 99,
+        "Active": true,
+        "Name": "Pizza Boutique Allenby 44",
+        "Country": "Israel",
+        "StartingQuantity": 20,
+        "Quantity": 20,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-03-08T00:00:07.898Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-10T17:56:27.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/d9dcfc00-81c9-11eb-9c0f-9d2e9463ba48.jpg",
+        "Tier": "F",
+        "PromotionId": "eebe4a70-81c9-11eb-9c0f-9d2e9463ba48",
+        "Promotion": "מגש פיצה ענקית + 2 תוספות ",
+        "EpochExpTimeStamp": 1619730000,
+        "PromotionDescription": "מגש פיצה ענק חם וטעים עם 2 תוספות לבחירה",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+97235170003"
+    },
+    {
+        "Address": "Dizengoff Street, 138, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-07T14:48:23.528Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-07T14:48:23.528Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-07T14:48:23.528Z"
+            }
+        },
+        "ExpTimeStamp": "Fri Apr 30 2021 13:48:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7739266",
+            "Lat": "32.0823596"
+        },
+        "Industry": "Restaurants",
+        "OriginalPrice": 41,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "ביצה",
+            "שתיה",
+            "חומוס",
+            "פלאפל",
+            "ארוחה",
+            "טחינה",
+            "ללא גלוטן"
+        ],
+        "AdvertiserId": "6fac1ebc-409e-4d94-a16a-2873d7061a12",
+        "OpeningTime": "2021-01-26T08:00:51.499Z",
+        "Price": 35,
+        "Active": true,
+        "Name": "Hummus Abu Gosh",
+        "Country": "Israel",
+        "StartingQuantity": 25,
+        "Quantity": 25,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-01-26T18:00:02.136Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-07T14:48:23.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/0fb6b860-5fe3-11eb-8097-df6e1a37617f.jpg",
+        "Tier": "F",
+        "PromotionId": "29cfb270-7f54-11eb-aec1-554ab9ab4810",
+        "Promotion": "ארוחת חומוס",
+        "EpochExpTimeStamp": 1619790480,
+        "PromotionDescription": "ארוחת חומוס בצלחת עם פלאפל ושתיה",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": ""
+    },
+    {
+        "Address": "Shlomo Ibn Gabirol St 1, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-02T15:52:09.709Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-02T15:52:09.709Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-02T15:52:09.709Z"
+            }
+        },
+        "ExpTimeStamp": "Wed Mar 31 2021 09:00:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7817468",
+            "Lat": "32.071316"
+        },
+        "Industry": "Gaming",
+        "OriginalPrice": 2250,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "נינטנדו",
+            "קונסולה",
+            "משחק",
+            "סוויצ",
+            "גיימינג"
+        ],
+        "AdvertiserId": "29996023-d261-4b1a-bd15-397de0710c7c",
+        "OpeningTime": "2021-03-02T08:00:33.193Z",
+        "Price": 2100,
+        "Active": true,
+        "Name": "Player 1",
+        "Country": "Israel",
+        "StartingQuantity": 5,
+        "Quantity": 5,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-03-02T18:00:41.854Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-02T15:52:09.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/3b2f8b50-7b6f-11eb-b433-27b7c31f956c.jpg",
+        "Tier": "F",
+        "PromotionId": "3b2f8b50-7b6f-11eb-b433-27b7c31f956c",
+        "Promotion": "נינטנדו סוויצ' + 3 משחקים",
+        "EpochExpTimeStamp": 1617181200,
+        "PromotionDescription": "הגרסה החדשה ביותר של קונסולת המשחקים הנמכרת בעולם נינטנדו סוויצ' עם שלושה משחקים ממכרים לבחירתך מהמבחר שבחנות",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+97236440275"
+    },
+    {
+        "Address": "Weizmann St 57, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-16T12:36:32.428Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-16T12:36:32.428Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-16T12:36:32.428Z"
+            }
+        },
+        "ExpTimeStamp": "Tue Mar 30 2021 21:00:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7893078",
+            "Lat": "32.0854221"
+        },
+        "Industry": "Restaurant",
+        "OriginalPrice": 118,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "יין",
+            "מעדנייה",
+            "אלכוהול",
+            "יין איטלקי"
+        ],
+        "AdvertiserId": "2be78891-f162-4262-a0c2-fd2ada7af500",
+        "OpeningTime": "2021-03-16T07:30:11.103Z",
+        "Price": 100,
+        "Active": true,
+        "Name": "DELI Kikar Hamedina",
+        "Country": "Israel",
+        "StartingQuantity": 10,
+        "Quantity": 10,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-03-16T15:30:59.251Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-16T12:36:32.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/0b6ed5c0-8654-11eb-90e3-653a35e1124c.jpg",
+        "Tier": "F",
+        "PromotionId": "3c09eb70-8654-11eb-90e3-653a35e1124c",
+        "Promotion": "2 בקבוקי יין Joyvin",
+        "EpochExpTimeStamp": 1617138000,
+        "PromotionDescription": "2 בקבוקי יין מובחרים מייקב erdelica castelbero Italy.\nיין איטלקי מתוק ומרענן.\nהולך טוב עם מנת עוף 🍗 או דגים 🐠",
+        "Age": 18,
+        "Live": false,
+        "BusinessPhone": "+97235078666"
+    },
+    {
+        "Address": "Shlomo Ibn Gabirol St 24, Tel Aviv-Yafo, Israel",
+        "ScannedCount": {
+            "ThisMonth": {
+                "value": 0,
+                "lastUpdated": "2021-03-01T07:26:17.768Z"
+            },
+            "Total": {
+                "value": 0,
+                "lastUpdated": "2021-03-01T07:26:17.768Z"
+            },
+            "ThisWeek": {
+                "value": 0,
+                "lastUpdated": "2021-03-01T07:26:17.768Z"
+            }
+        },
+        "ExpTimeStamp": "Wed Mar 31 2021 06:26:00 GMT+0000 (Coordinated Universal Time)",
+        "GeoCode": {
+            "Lng": "34.7819444",
+            "Lat": "32.0740857"
+        },
+        "Industry": "Restaurants",
+        "OriginalPrice": 44,
+        "AppName": "Tel Aviv-Yafo",
+        "Tags": [
+            "בצק",
+            "מסעדה",
+            "ארוחה",
+            "מטוגן",
+            "איטלקי"
+        ],
+        "AdvertiserId": "79e0bd20-b0a6-4e95-9340-adb7aa99f4bb",
+        "OpeningTime": "2021-02-28T08:00:00.000Z",
+        "Price": 22,
+        "Active": true,
+        "Name": "Street Chef",
+        "Country": "Israel",
+        "StartingQuantity": 20,
+        "Quantity": 20,
+        "Env": "live",
+        "Likes": 0,
+        "ClosingTime": "2021-02-28T21:00:07.524Z",
+        "Revenue": 0,
+        "TimeStamp": "2021-03-01T07:26:17.000Z",
+        "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/65c0d470-7a5f-11eb-a13b-97cbf4dbdc1f.jpg",
+        "Tier": "F",
+        "PromotionId": "65c0d470-7a5f-11eb-a13b-97cbf4dbdc1f",
+        "Promotion": "1+1 על כל הפנצרוטי",
+        "EpochExpTimeStamp": 1617171960,
+        "PromotionDescription": "כיסוני בצק איטלקיים מעודנים ומטוגנים במגוון מילויים שווים וטעימים",
+        "Age": 0,
+        "Live": false,
+        "BusinessPhone": "+972548266260"
+    }
+]

@@ -1,0 +1,65 @@
+{
+    "Address": "Yirmeyahu St 17, Tel Aviv-Yafo, Israel",
+    "PromotionSchedule": {
+        "Active": true,
+        "Saturday": {
+            "StartTime": "2021-03-02T08:01:43.630Z",
+            "EndTime": "2021-03-02T18:00:53.184Z"
+        },
+        "Thursday": {
+            "StartTime": "2021-03-02T08:00:48.630Z",
+            "EndTime": "2021-03-02T18:00:53.184Z"
+        }
+    },
+    "ScannedCount": {
+        "ThisMonth": {
+            "value": 0,
+            "lastUpdated": "2021-03-10T19:39:30.117Z"
+        },
+        "Total": {
+            "value": 0,
+            "lastUpdated": "2021-03-10T19:39:30.117Z"
+        },
+        "ThisWeek": {
+            "value": 0,
+            "lastUpdated": "2021-03-10T19:39:30.117Z"
+        }
+    },
+    "ExpTimeStamp": "Wed Mar 31 2021 20:00:00 GMT+0000 (Coordinated Universal Time)",
+    "GeoCode": {
+        "Lng": "34.7759096",
+        "Lat": "32.0948425"
+    },
+    "Industry": "Restaurant",
+    "OriginalPrice": 62,
+    "AppName": "Tel Aviv-Yafo",
+    "Tags": [
+        "בירה",
+        "מסעדה",
+        "עסקית",
+        "טבעוני",
+        "אוכל בריא"
+    ],
+    "AdvertiserId": "dbe31c14-ab8a-49fc-bbbd-2341c0c05d19",
+    "OpeningTime": "2021-03-10T08:00:47.762Z",
+    "Price": 44,
+    "Active": false,
+    "Name": "J17 vegan TLV",
+    "Country": "Israel",
+    "StartingQuantity": 15,
+    "Quantity": 15,
+    "Env": "live",
+    "Likes": 0,
+    "ClosingTime": "2021-03-10T21:00:54.345Z",
+    "Revenue": 0,
+    "TimeStamp": "2021-03-10T19:39:30.000Z",
+    "Image": "https://zestty-mobile.s3.us-east-2.amazonaws.com/public/35877180-81d8-11eb-afad-cd74cf63b7af.jpg",
+    "Tier": "F",
+    "PromotionId": "54f714d0-81d8-11eb-afad-cd74cf63b7af",
+    "Promotion": "עסקית טורטייה מרגז טבעונית",
+    "EpochExpTimeStamp": 1617220800,
+    "PromotionDescription": "נקניקיות מרגז עם בטטות צלויות, איולי צילי וירקות. מוגש בתוספת ציפס כפרי או תפוח אדמה מדורה ובירה",
+    "Age": 18,
+    "Live": false,
+    "BusinessPhone": "+97239442773"
+}
